@@ -1,4 +1,4 @@
-package com.training.myapp.tests;
+package com.training.myapp;
 
 public class Greeter {
 
